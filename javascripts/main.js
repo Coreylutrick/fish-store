@@ -1,1 +1,3 @@
-console.log('poop');
+const bindEvents = require('./oldMain');
+
+bindEvents();
